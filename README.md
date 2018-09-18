@@ -23,7 +23,6 @@ For an optimal student experience, we recommend the following hardware configura
 * **Processor**: 2.6 GHz or higher, preferably multi-core
 * **Memory**: 4GB RAM
 * **Hard disk**: 10GB or more
-* A projector 
 * An Internet connection
 
 
